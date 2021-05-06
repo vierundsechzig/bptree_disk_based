@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Nick Liu/CLionProjects/software_library/Book.cpp
+cstring
+-
+ctime
+-
+iostream
+-
+fstream
+-
+iomanip
+-
+Book.h
+C:/Users/Nick Liu/CLionProjects/software_library/Book.h
+
+C:/Users/Nick Liu/CLionProjects/software_library/Book.h
+iostream
+-
+Date.h
+C:/Users/Nick Liu/CLionProjects/software_library/Date.h
+
+C:/Users/Nick Liu/CLionProjects/software_library/Date.h
+string
+-
+iostream
+-
+

@@ -1,0 +1,3 @@
+C:/Users/Nick Liu/CLionProjects/software_library/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Nick Liu/CLionProjects/software_library/cmake-build-debug/CMakeFiles/software_library.dir
+C:/Users/Nick Liu/CLionProjects/software_library/cmake-build-debug/CMakeFiles/rebuild_cache.dir
